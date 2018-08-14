@@ -11,7 +11,7 @@ extension String {
 
 "🦄🦄🦄 Stay Artsy Minnesota! 🌈🌈🌈".removeFancyChars()
 
-// In face, String.replacing(regex:with:) is itself an extension method I added to String,
+// In fact, String.replacing(regex:with:) is itself an extension method I added to String,
 // because the standard regex search is so clumsy:
 
 extension String {
